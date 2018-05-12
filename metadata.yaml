@@ -1,0 +1,27 @@
+_repo: Pro-JudaeisRiflessioni-e-Documenti_45807
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45807-h/images/cover7.jpg
+creator:
+  author:
+    agent_name: Guidetti, Corrado
+    gutenberg_agent_id: '43467'
+    url: http://www.gutenberg.org/2009/agents/43467
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45807'
+  lccn: '76489033'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blood accusation'
+- !lcsh 'Antisemitism'
+- !lcc 'DS'
+title: 'Pro Judaeis: Riflessioni e Documenti'
+url: http://www.gutenberg.org/ebooks/45807
